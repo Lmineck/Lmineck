@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=welcome%20LFOX's%20github&descAlignY=51&descAlign=70)
 
 <!--
 **Lmineck/Lmineck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
